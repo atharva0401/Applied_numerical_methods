@@ -16,4 +16,4 @@ This is a set of programs that aim at solving anm based problems.
 
 6. Newton-Raphson Method for a system of linear equations
 
-
+7. Linear Approx of functions using derivatives
